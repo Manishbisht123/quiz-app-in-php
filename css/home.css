@@ -1,0 +1,108 @@
+@Import Url("Https://Fonts.Googleapis.Com/Css2?Family=Open+Sans&Display=Swap");
+Body {
+    Font-Family: "Open Sans", Sans-Serif;
+    Margin: 0;
+}
+h2 {
+    Text-Decoration: None;
+    Color: rgb(28, 116, 224);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Site-Header {
+    Border-Bottom: 1px Solid #Ccc;
+    Padding: 0px 18px;
+    Display: Flex;
+    Justify-Content: Space-Between;
+}
+.Site-Identity H1 {
+    Font-Size: 1.5em;
+    Margin: 0.6em 0;
+    Display: Inline-Block;
+}
+.Site-Navigation Ul,
+.Site-Navigation Li {
+    Margin: 0;
+    Padding: 0;
+}
+.Site-Navigation Li {
+    Display: Inline-Block;
+    Margin: 1.4em 1em 1em 1em;
+}
+
+.btn {
+    padding: 10px 12px;
+    background:  rgb(11, 77, 159);
+    text-decoration: none;
+    font-weight: 500;
+    color: #fff;
+  }
+  
+  .btn:hover {
+    background: #1080ac;
+  }
+  
+
+  #quiz input {
+    vertical-align: middle;
+}
+ 
+#quiz ol {
+   margin: 0 0 10px 20px;
+}
+ 
+#quiz ol li {
+   margin: 0 0 20px 0;
+}
+ 
+#quiz ol li div {
+   padding: 4px 0;
+}
+ 
+#quiz h3 {
+   font-size: 17px; 
+   margin: 0 0 1px 0;
+   color: rgb(0, 0, 0);
+}
+ 
+#results {
+    font: 44px Georgia, Serif;
+}
+
+h1  { 
+    padding: 0px 14px;
+    text-align: center;
+    margin: 25px 0;
+    font: 28px Georgia, Serif; 
+    font-weight: bold;
+    text-transform: uppercase;
+    color:  blue;
+    letter-spacing: 3px;
+ }
+
+ /*  
+ .submitbtn {
+    margin: 40px;
+    padding: 10px 16px;
+    font-size: 16px;
+    font-weight: 500;
+    background:  rgb(11, 77, 159);
+    text-decoration: none;
+    font-weight: 500;
+    color: #fff;
+    outline: none;
+    border: none;
+ }
+
+ .submitbtn:hover {
+    background: #1080ac;
+ }
+
+*/
+
+
+
+
+  
+ 
